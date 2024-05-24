@@ -1,4 +1,4 @@
-package com.tugas3;
+package com.tugas2;
 
 import java.util.Arrays;
 
